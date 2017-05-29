@@ -1,0 +1,25 @@
+{
+  "name": "play_typescript",
+  "version": "1.0.0",
+  "description": "* 我想試試看tcs是怎麼使用的",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.3.3"
+  },
+  "devDependencies": {
+    "typescript": "^2.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austin0925/playTypescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austin0925/playTypescript/issues"
+  },
+  "homepage": "https://github.com/austin0925/playTypescript#readme"
+}
